@@ -4,4 +4,4 @@ The purpose of this dashboard is to give an overview of the Ebola epidemic in So
 
 The data source is from the Centers for Disease Control and Prevention (CDC): https://www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/index.html
 
-To view the published dashboard:
+To view the published dashboard: https://share.streamlit.io/rubahk/health/main/p.py
